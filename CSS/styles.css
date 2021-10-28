@@ -1,6 +1,6 @@
 /*Body color*/
 body {
-  background-image: url(images/Background.png);
+  background-image: url(/images/Background.png);
   background-size: cover;
 }
 
@@ -108,7 +108,7 @@ nav {
   justify-self: center;
   margin: 2em;
   border-radius: 5px;
-  border: rebeccapurple 1px solid;
+  border: rgb(0, 0, 0) 1px solid;
 }
 
 .container .hobbies {
