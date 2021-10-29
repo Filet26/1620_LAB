@@ -113,13 +113,18 @@ nav {
 
 .container .hobbies {
   display: flex;
-  grid-row: 3;
+  grid-row: 4;
   align-self: flex-start;
+}
+
+.container .hobby-list {
+  display: flex;
+  grid-row: 5;
 }
 
 .container .about-me {
   display: flex;
-  grid-row: 4;
+  grid-row: 3;
   grid-column: 2;
   text-align: center;
   font-family: "Roboto Mono", sans-serif;
